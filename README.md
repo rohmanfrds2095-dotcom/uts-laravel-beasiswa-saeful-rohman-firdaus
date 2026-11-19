@@ -27,24 +27,20 @@ Kriteria penilaian:
 
 ## 📸 Screenshot Hasil Running Aplikasi
 ### 1. Halaman Beranda
-![Screenshot Beranda](<img width="1920" height="1080" alt="Halaman Beranda" src="https://github.com/user-attachments/assets/5b17dc27-8948-40cc-898d-e2ab47c490ab" />
+![Screenshot Beranda](<img width="1920" height="1080" alt="Halaman Beranda" src="https://github.com/user-attachments/assets/06e497c0-a635-4908-857e-964551d5c795" />
 )
 
 ### 2. Halaman Kriteria
-![Screenshot Kriteria](<img width="1920" height="1080" alt="Halaman Kriteria" src="https://github.com/user-attachments/assets/fcb1d29e-fc8b-41e3-8922-2858db70f67d" />
-)
+![Screenshot Kriteria](<img width="1920" height="1080" alt="Halaman Kriteria" src="https://github.com/user-attachments/assets/960333c3-c1a4-4130-ad95-6fed1e0fcdaa" />)
 
 ### 3. Halaman Hitung Skor
-![Screenshot Hitung](<img width="1920" height="1080" alt="Halaman Hitung" src="https://github.com/user-attachments/assets/aedf74b6-7257-4f4d-9051-208911ac1ee2" />
-)
+![Screenshot Hitung](<img width="1920" height="1080" alt="Halaman Hitung" src="https://github.com/user-attachments/assets/9d9ab585-7978-41b3-93c7-912d9c760157" />)
 
 ### 4. Halaman Ranking
-![Screenshot Ranking](<img width="1920" height="1080" alt="Halaman Ranking" src="https://github.com/user-attachments/assets/f9cba820-3c8f-451e-85b8-54b438a76a5e" />
-)
+![Screenshot Ranking](<img width="1920" height="1080" alt="Halaman Ranking" src="https://github.com/user-attachments/assets/a153bc8f-3b10-4d9b-8b4b-efb68d4b18e3" />)
 
 ### 5. Halaman Filter Layak Beasiswa
-![Screenshot Filter‑Layak](<img width="1920" height="1080" alt="Halaman Filter-Layak" src="https://github.com/user-attachments/assets/e8b6fb5e-ccd8-49f0-9749-b7f7d27518c3" />
-)
+![Screenshot Filter‑Layak](<img width="1920" height="1080" alt="Halaman Filter-Layak" src="https://github.com/user-attachments/assets/ae9995cc-c0e6-4eef-a0f7-80ddde108607" />)
 
 ## ▶️ Cara Menjalankan Aplikasi
 1. Clone repository ini
